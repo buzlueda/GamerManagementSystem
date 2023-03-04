@@ -1,0 +1,12 @@
+C:\Dev_Projects\GamerManagementSystem\Core\bin\Debug\net6.0\Core.deps.json
+C:\Dev_Projects\GamerManagementSystem\Core\bin\Debug\net6.0\Core.dll
+C:\Dev_Projects\GamerManagementSystem\Core\bin\Debug\net6.0\Core.pdb
+C:\Dev_Projects\GamerManagementSystem\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Dev_Projects\GamerManagementSystem\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev_Projects\GamerManagementSystem\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Dev_Projects\GamerManagementSystem\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Dev_Projects\GamerManagementSystem\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Dev_Projects\GamerManagementSystem\Core\obj\Debug\net6.0\Core.dll
+C:\Dev_Projects\GamerManagementSystem\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Dev_Projects\GamerManagementSystem\Core\obj\Debug\net6.0\Core.pdb
+C:\Dev_Projects\GamerManagementSystem\Core\obj\Debug\net6.0\ref\Core.dll

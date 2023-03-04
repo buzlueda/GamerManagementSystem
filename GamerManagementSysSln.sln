@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{87E68AE2-7CD7-490A-9CF2-2582B5D33646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamerManagementSys", "GamerManagementSys\GamerManagementSys.csproj", "{27EFB988-860B-4582-A452-713E2FBE01FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87E68AE2-7CD7-490A-9CF2-2582B5D33646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E68AE2-7CD7-490A-9CF2-2582B5D33646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E68AE2-7CD7-490A-9CF2-2582B5D33646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E68AE2-7CD7-490A-9CF2-2582B5D33646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27EFB988-860B-4582-A452-713E2FBE01FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27EFB988-860B-4582-A452-713E2FBE01FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27EFB988-860B-4582-A452-713E2FBE01FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27EFB988-860B-4582-A452-713E2FBE01FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
